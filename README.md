@@ -21,12 +21,12 @@ create project repository on github and get the URL
 
 From Shell and inside project folder:
 
-git init
-git add .
-git commit -m "master"
-git remote add origin {{here you paste the URL of the project from github}}
-git remove -v
-git push origin master
+1. - git init
+2. - git add .
+3. - git commit -m "master"
+4. - git remote add origin {{here you paste the URL of the project from github}}
+5. - git remove -v
+6. - git push origin master
 
 
 
