@@ -2,7 +2,7 @@
   "name": "jest-test",
   "version": "1.0.0",
   "description": "",
-  "main": "problem.js",
+  "main": "solution.js",
   "scripts": {
     "test": "jest --watchAll"
   },
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.5.0"
+    "jest": "^23.6.0"
   }
 }
